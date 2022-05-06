@@ -1,10 +1,10 @@
 # Data-Structures-and-Algorithms
-Common Data Structures and Algorithms and their implementations 
+##Common Data Structures and Algorithms and their implementations 
 
-The repository contains the implementation of the data structures and algorithms with and without using STL containers. 
+###The repository contains the implementation of the data structures and algorithms with and without using STL containers. 
 
 
-The data structures covered in the repository are:<br />
+####The data structures covered in the repository are:<br />
 1 - Linked lists and Arrays<br />
 2 - Stacks<br />
 3 - Queues<br /> 
@@ -14,7 +14,7 @@ The data structures covered in the repository are:<br />
 7 - Heap<br />
 8 - Matrix<br />
 
-The STL containers covered are:<br />
+####The STL containers covered are:<br />
 1 - Array<br />
 2 - Vector<br />
 3 - Deque<br />
