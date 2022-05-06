@@ -4,7 +4,7 @@ Common Data Structures and Algorithms and their implementations
 The repository contains the implementation of the data structures and algorithms with and without using STL containers. 
 
 
-The data structures covered in the repository are
+The data structures covered in the repository are: <br />
 1 - Linked lists and Arrays
 2 - Stacks
 3 - Queues 
