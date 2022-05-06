@@ -5,8 +5,8 @@ The repository contains the implementation of the data structures and algorithms
 
 
 The data structures covered in the repository are
-1- Linked lists and Arrays
-2- Stacks
+1 - Linked lists and Arrays
+2 - Stacks
 3 - Queues 
 4 - Binary Trees and Binary Search trees
 5 - Graph and Adjacency list
@@ -15,12 +15,12 @@ The data structures covered in the repository are
 8 - Matrix 
 
 The STL containers covered are
-1- Array
-2- Vector
-3- Deque
+1 - Array
+2 - Vector
+3 - Deque
 4 - List
 5 - Forward List
-6- set 
+6 - set 
 7 - map 
 8 - multiset
 9 - multimap 
