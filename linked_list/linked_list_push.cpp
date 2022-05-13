@@ -1,4 +1,4 @@
-// inserting a node at the beginning of a linked list using pointer to pointer with head_reference 
+// inserting a node at the beginning and the end of a linked list using pointer to pointer with head_reference 
 #include <iostream>
 using namespace std; 
 
